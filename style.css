@@ -1,0 +1,13 @@
+div{
+    height: 60rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+    font-size: 5rem;
+    color: aqua;
+    background-color: black;
+    font-family: 'Orbitron', sans-serif;
+
+}
